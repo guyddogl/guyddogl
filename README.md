@@ -9,7 +9,8 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=guyddogl&count_private=true&hide=hack&show_icons=true&theme=dracula&title_color=00ccdb&border_color=1b374b&icon_color=00ccdb&bg_color=21282f)](https://github.com/guyddogl)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guyddogl&count_private=true&hide=hack&layout=compact&theme=dracula&title_color=00ccdb&border_color=1b374b&icon_color=00ccdb&bg_color=21282f)](https://github.com/guyddogl)
-
+<!--
+<a href="https://github.com/guyddogl"><img align="center" src="https://github-readme-stats.vercel.app/api?username=guyddogl&count_private=true&hide=hack&show_icons=true&theme=dracula&title_color=00ccdb&border_color=1b374b&icon_color=00ccdb&bg_color=21282f" alt="guyddogl's github stats" /></a> <a href="https://github.com/guyddogl"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyddogl&count_private=true&hide=hack&layout=compact&theme=dracula&title_color=00ccdb&border_color=1b374b&icon_color=00ccdb&bg_color=21282f" /></a> -->
 <hr/>
 
 ### Tecnologias
