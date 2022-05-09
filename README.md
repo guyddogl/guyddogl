@@ -1,13 +1,13 @@
 ### Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Stats
  
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=guyddogl&count_private=true&hide=hack&show_icons=true&theme=dracula&title_color=00ccdb&border_color=1b374b&icon_color=00ccdb&bg_color=21282f" alt="guyddogl's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyddogl&count_private=true&hide=hack&layout=compact&theme=dracula&title_color=00ccdb&border_color=1b374b&icon_color=00ccdb&bg_color=21282f" alt="guyddogl's most used languages"/>
 </p>
  
-### 🛠 &nbsp;Tech Stacks
+### 🛠 &nbsp;Stacks
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1b374b?style=for-the-badge&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-1b374b?style=for-the-badge&logo=HTML5)&nbsp;
