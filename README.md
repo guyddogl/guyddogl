@@ -20,7 +20,5 @@
 -->
 
 ### :link:&nbsp;Links
-<div style="display: inline_block">
-<a href="https://www.linkedin.com/in/guyddogl" target="_Blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:guyddogl@gmail.com" target="_Blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.guyddogl.com/cv" target="_Blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/CV-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" /></a>
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-1b374b?style=for-the-badge&logo=LinkedIn)&nbsp;
+![Email](https://img.shields.io/badge/-Email-1b374b?style=for-the-badge&logo=gmail&logoColor=ffffff)&nbsp;
