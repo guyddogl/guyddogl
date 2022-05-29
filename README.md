@@ -14,11 +14,11 @@
 ### 🛠 &nbsp;stacks() {
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1b374b?style=for-the-badge&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-1b374b?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-1b374b?style=for-the-badge&logo=github)&nbsp; <br>
 ![HTML](https://img.shields.io/badge/-HTML-1b374b?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1b374b?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-1b374b?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-1b374b?style=for-the-badge&logo=github)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-1b374b?style=for-the-badge&logo=Bootstrap)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-1b374b?style=for-the-badge&logo=Bootstrap)&nbsp; <br>
 ![PHP](https://img.shields.io/badge/-PHP-1b374b?style=for-the-badge&logo=PHP)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-1b374b?style=for-the-badge&logo=MySQL)&nbsp;
  <!--
