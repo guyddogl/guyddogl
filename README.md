@@ -13,6 +13,7 @@
 
 ### 🛠 &nbsp;stacks() {
 
+![React](https://img.shields.io/badge/-React-1b374b?style=for-the-badge&logo=React)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1b374b?style=for-the-badge&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-1b374b?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-1b374b?style=for-the-badge&logo=github)&nbsp;
