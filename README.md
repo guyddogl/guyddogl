@@ -17,6 +17,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1b374b?style=for-the-badge&logo=Bootstrap)&nbsp; <br>
 ![Docker](https://img.shields.io/badge/-Docker-1b374b?style=for-the-badge&logo=Docker)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.js-1b374b?style=for-the-badge&logo=NODE.JS&logoColor=1572B6)&nbsp;
+![Express](https://img.shields.io/badge/-Express-1b374b?style=for-the-badge&logo=Express)&nbsp;
+![Axios](https://img.shields.io/badge/-Axios-1b374b?style=for-the-badge&logo=Axios)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-1b374b?style=for-the-badge&logo=MySQL)&nbsp;
  <!--
 ![PHP](https://img.shields.io/badge/-PHP-1b374b?style=for-the-badge&logo=PHP)&nbsp;
