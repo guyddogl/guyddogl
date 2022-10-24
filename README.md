@@ -28,6 +28,7 @@
 ### :link:&nbsp;links() {
 <a href="https://linkedin.com/in/guyddogl">![LinkedIn](https://img.shields.io/badge/-LinkedIn-1b374b?style=for-the-badge&logo=LinkedIn)</a>&nbsp;
 <a href="mailto:guyddogl@gmail.com">![Email](https://img.shields.io/badge/-Email-1b374b?style=for-the-badge&logo=gmail&logoColor=ffffff)</a>&nbsp;
+<a href="https://guyddogl.com/cv/projetos/">![Currículo](https://img.shields.io/badge/-Email-1b374b?style=for-the-badge&logo=gmail&logoColor=ffffff)</a>&nbsp;
 
 }
 
