@@ -1,9 +1,9 @@
 ### <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
 
-##### Sou Desenvolvedor Web graduado em Sistemas de Informação. Tenho experiência em tecnologias como JavaScript, ReactJs, Context API, Redux, RTL, Jest, Docker, MySQL, HTML, CSS, Bootstrap, Git/Github, WordPress e Bubble. Como referencial destaco minha capacidade de liderança e facilidade para trabalhar em equipe. Atualmente estou estudando para aprimorar meus conhecimentos nas tecnologias citadas e também adquirindo conhecimento em TypeScript e NodeJS.
+##### Sou Desenvolvedor Web graduado em Sistemas de Informação. Tenho experiência em tecnologias como JavaScript, ReactJS, Context API, Redux, RTL, Jest, Docker, MySQL, HTML, CSS, Bootstrap, Git/Github, WordPress e Bubble. Como referencial destaco minha capacidade de liderança e facilidade para trabalhar em equipe. Atualmente estou estudando para aprimorar meus conhecimentos nas tecnologias citadas e também adquirindo conhecimento em TypeScript e NodeJS.
 <br/>
 
-### 🛠 &nbsp;stacks() {
+### 🛠 &nbsp;stacks
 
 ![React](https://img.shields.io/badge/-React-1b374b?style=for-the-badge&logo=React)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-1b374b?style=for-the-badge&logo=Redux)&nbsp;
@@ -23,16 +23,12 @@
  <!--
 ![PHP](https://img.shields.io/badge/-PHP-1b374b?style=for-the-badge&logo=PHP)&nbsp;
 -->
-}
 
-### :link:&nbsp;links() {
+### :link:&nbsp;links
 <a href="https://linkedin.com/in/guyddogl">![LinkedIn](https://img.shields.io/badge/-LinkedIn-1b374b?style=for-the-badge&logo=LinkedIn)</a>&nbsp;
 <a href="mailto:guyddogl@gmail.com">![Email](https://img.shields.io/badge/-Email-1b374b?style=for-the-badge&logo=gmail&logoColor=ffffff)</a>&nbsp;
-<a href="https://guyddogl.com/cv/projetos/">![Currículo](https://img.shields.io/badge/-Email-1b374b?style=for-the-badge&logo=gmail&logoColor=ffffff)</a>&nbsp;
 
-}
-
-### ⚙️ &nbsp;stats() {
+### ⚙️ &nbsp;stats
  
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=guyddogl&count_private=true&hide=hack&show_icons=true&theme=dracula&title_color=00ccdb&border_color=1b374b&icon_color=00ccdb&bg_color=21282f" alt="guyddogl's stats"/>
@@ -40,5 +36,3 @@
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guyddogl&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-}
