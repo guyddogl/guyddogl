@@ -1,6 +1,6 @@
 ### <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
 
-##### Sou Desenvolvedor Web graduado em Sistemas de Informação. Tenho experiência em tecnologias como JavaScript, ReactJS, Context API, Redux, RTL, Jest, Docker, MySQL, HTML, CSS, Bootstrap, Git/Github, WordPress e Bubble. Como referencial destaco minha capacidade de liderança e facilidade para trabalhar em equipe. Atualmente estou estudando para aprimorar meus conhecimentos nas tecnologias citadas e também adquirindo conhecimento em TypeScript e NodeJS.
+##### Sou Desenvolvedor Web graduado em Sistemas de Informação. Tenho experiência em tecnologias como JavaScript, ReactJS, Context API, Redux, RTL, Jest, Docker, NodeJS, MySQL, HTML, CSS, Bootstrap, Git/Github, WordPress e Bubble. Como referencial destaco minha capacidade de liderança e facilidade para trabalhar em equipe. Atualmente estou estudando para aprimorar meus conhecimentos nas tecnologias citadas e também adquirindo conhecimento em TypeScript, Python, MongoDB.
 <br/>
 
 ### 🛠 &nbsp;stacks
