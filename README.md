@@ -40,8 +40,11 @@ Você pode entrar em contato comigo pelo e-mail guyddogl@gmail.com
 ### ⚙️ &nbsp;stats
  
 <p align="left">
+ <!--
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=guyddogl&count_private=true&hide=hack&show_icons=true&theme=dracula&title_color=00ccdb&border_color=1b374b&icon_color=00ccdb&bg_color=21282f" alt="guyddogl's stats"/>
+-->
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guyddogl&count_private=true&hide=hack&layout=compact&theme=dracula&title_color=00ccdb&border_color=1b374b&icon_color=00ccdb&bg_color=21282f" alt="guyddogl's most used languages"/>
 </p>
-
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guyddogl&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+-->
