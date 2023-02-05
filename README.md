@@ -17,6 +17,7 @@ Você pode entrar em contato comigo pelo e-mail guyddogl@gmail.com
 ![React](https://img.shields.io/badge/-React-1b374b?style=for-the-badge&logo=React)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-1b374b?style=for-the-badge&logo=Redux)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1b374b?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-1b374b?style=for-the-badge&logo=typescript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-1b374b?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-1b374b?style=for-the-badge&logo=github)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-1b374b?style=for-the-badge&logo=jest)&nbsp;
