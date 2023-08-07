@@ -3,11 +3,11 @@
 ##### Sou Desenvolvedor de Software graduado em Sistemas de Informação. Tenho experiência como desenvolvedor Full-Stack (front-end e back-end).
 
 💻 Principais Tecnologias:
-JavaScript, ReactJS, Context API, Redux, RTL, Jest, Docker, NodeJS, MySQL, HTML, CSS, Bootstrap, Git/Github, WordPress e Bubble.
+JavaScript, TypeScript, React, Context API, Redux, RTL, Jest, Docker, Node, API Rest, MySQL, HTML, CSS, Bootstrap, Git/Github, WordPress e Bubble.
 
 🤵 Como referencial destaco minha capacidade de liderança e facilidade para trabalhar em equipe. 
 
-👨‍🎓 Atualmente estou estudando para aprimorar meus conhecimentos nas tecnologias citadas e também adquirindo conhecimento em TypeScript, Python, MongoDB.
+👨‍🎓 Atualmente estou estudando para aprimorar meus conhecimentos nas tecnologias citadas e também adquirindo conhecimento em C#, Python, AWS e MongoDB.
 
 Você pode entrar em contato comigo pelo e-mail guyddogl@gmail.com
 <br/>
