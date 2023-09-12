@@ -1,9 +1,9 @@
 ### <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
 
-##### Sou Desenvolvedor de Software graduado em Sistemas de Informação. Tenho experiência como desenvolvedor Full-Stack (front-end e back-end).
+##### Sou Desenvolvedor de Software (Full Stack) graduado em Sistemas de Informação com mais de 10 anos de experiência.
 
 💻 Principais Tecnologias:
-JavaScript, TypeScript, React, Context API, Redux, RTL, Jest, Docker, Node, API Rest, MySQL, HTML, CSS, Bootstrap, Git/Github, WordPress e Bubble.
+JavaScript, TypeScript, React, Context API, Redux, RTL, Jest, Docker, Node, API Rest, MySQL, HTML, CSS, Bootstrap, Git/Github/GitLab, WordPress e Bubble.
 
 🤵 Como referencial destaco minha capacidade de liderança e facilidade para trabalhar em equipe. 
 
